@@ -2,7 +2,7 @@
 
 ## Repro
 
-- Run `pnpm` to install dependencies 
+- Run `pnpm install` to install dependencies 
 - Run `pnpm build && pnpm preview`
 - Observe the runtime error when previewing the app in the browser:
   ```

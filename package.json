@@ -1,0 +1,17 @@
+{
+  "name": "vite-plugin-legacy-worker-repro",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "rm -rf dist && vite build",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Walker Burgin <walkerburgin@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^5.4.1",
+    "vite": "^5.3.3"
+  }
+}
